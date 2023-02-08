@@ -1,0 +1,111 @@
+.pt-25 {
+  padding-top: 25px;
+}
+
+body a {
+  text-decoration: none;
+  color: black;
+}
+
+.pt-50 {
+  padding-top: 50px;
+}
+
+.pt-80 {
+  padding-top: 80px;
+}
+
+.pt-200px {
+  padding-top: 200px;
+}
+
+.wi {
+  width: 150px;
+}
+
+.email {
+  padding: 10px 350px;
+}
+
+.text-warning {
+  font-size: 60px;
+  line-height: 70px;
+}
+
+.input {
+  padding: 10px 450px;
+}
+
+header-2 h1 {
+  padding-top: 262px;
+}
+
+.login {
+  text-align: center;
+
+}
+
+.icon {
+  background: #EAEBEF;
+  margin: 10px 450px;
+  border-radius: 5px;
+}
+
+.icon-1 {
+  background-color: #FCBD21;
+  padding: 15px 0px;
+  margin: 0px 450px;
+  margin-top: 41px;
+  border-radius: 5px;
+}
+
+.sign a {
+  color: #FCBD21;
+}
+
+.best {
+  margin-bottom: 0;
+  padding: 0px 50px;
+
+}
+
+.tetle {
+  margin-bottom: 0;
+}
+
+.describes {
+  padding-left: 50px;
+}
+
+.you {
+  padding-right: 50px;
+}
+
+.name {
+  padding: 10px 50px;
+}
+
+.company {
+  margin: 0px 300px;
+}
+
+.Continue {
+  background-color: #FCBD21;
+  padding: 15px 0px;
+  margin: 50px;
+  border-radius: 5px;
+}
+
+.home {
+  color: #999999;
+}
+
+.wavy {
+  padding: 100px 300px;
+}
+
+.wavy a {
+  background-color: #FCBD21;
+  padding: 15px 150px;
+  border-radius: 5px;
+}
